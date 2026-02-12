@@ -1,0 +1,22 @@
+# Virtual environments
+myenv/
+venv/
+env/
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Distribution / building
+build/
+dist/
+*.egg-info/
